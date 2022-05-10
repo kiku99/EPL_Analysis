@@ -1,0 +1,490 @@
+season,hometeam,awayteam,FTR
+Jan-00,Chelsea,"West Ham",H
+Jan-00,Chelsea,Liverpool,H
+Jan-00,Chelsea,Coventry,H
+Jan-00,Chelsea,Tottenham,H
+Jan-00,Chelsea,"Man City",H
+Jan-00,Chelsea,Derby,H
+Jan-00,Chelsea,Bradford,H
+Jan-00,Chelsea,"Aston Villa",H
+Jan-00,Chelsea,Ipswich,H
+Jan-00,Chelsea,Newcastle,H
+Jan-00,"West Ham",Chelsea,A
+Jan-00,Chelsea,Middlesbrough,H
+Jan-00,Derby,Chelsea,A
+Jan-00,Chelsea,Southampton,H
+Jan-00,Tottenham,Chelsea,A
+Jan-00,Chelsea,Everton,H
+Jan-00,"Man City",Chelsea,A
+01-Feb,Southampton,Chelsea,A
+01-Feb,Tottenham,Chelsea,A
+01-Feb,Chelsea,Leicester,H
+01-Feb,Chelsea,Ipswich,H
+01-Feb,"Man United",Chelsea,A
+01-Feb,Chelsea,Liverpool,H
+01-Feb,Chelsea,Bolton,H
+01-Feb,Newcastle,Chelsea,A
+01-Feb,Chelsea,"West Ham",H
+01-Feb,Chelsea,Leeds,H
+01-Feb,Leicester,Chelsea,A
+01-Feb,Chelsea,Fulham,H
+01-Feb,Chelsea,Tottenham,H
+01-Feb,Chelsea,Sunderland,H
+01-Feb,Chelsea,Derby,H
+01-Feb,Chelsea,Everton,H
+01-Feb,Middlesbrough,Chelsea,A
+02-Mar,Charlton,Chelsea,A
+02-Mar,Blackburn,Chelsea,A
+02-Mar,Chelsea,Newcastle,H
+02-Mar,"Man City",Chelsea,A
+02-Mar,Chelsea,"West Brom",H
+02-Mar,Chelsea,Birmingham,H
+02-Mar,Chelsea,Middlesbrough,H
+02-Mar,Chelsea,Sunderland,H
+02-Mar,Everton,Chelsea,A
+02-Mar,Chelsea,"Aston Villa",H
+02-Mar,Chelsea,Charlton,H
+02-Mar,Chelsea,Leeds,H
+02-Mar,Birmingham,Chelsea,A
+02-Mar,"West Brom",Chelsea,A
+02-Mar,Chelsea,"Man City",H
+02-Mar,Sunderland,Chelsea,A
+02-Mar,Chelsea,Bolton,H
+02-Mar,Chelsea,Everton,H
+02-Mar,Chelsea,Liverpool,H
+03-Apr,Liverpool,Chelsea,A
+03-Apr,Chelsea,Leicester,H
+03-Apr,Chelsea,Tottenham,H
+03-Apr,Wolves,Chelsea,A
+03-Apr,Chelsea,"Aston Villa",H
+03-Apr,Middlesbrough,Chelsea,A
+03-Apr,Chelsea,"Man City",H
+03-Apr,Everton,Chelsea,A
+03-Apr,Chelsea,Newcastle,H
+03-Apr,Southampton,Chelsea,A
+03-Apr,Chelsea,"Man United",H
+03-Apr,Fulham,Chelsea,A
+03-Apr,Chelsea,Portsmouth,H
+03-Apr,Leicester,Chelsea,A
+03-Apr,Blackburn,Chelsea,A
+03-Apr,Chelsea,Charlton,H
+03-Apr,Portsmouth,Chelsea,A
+03-Apr,"Man City",Chelsea,A
+03-Apr,Bolton,Chelsea,A
+03-Apr,Chelsea,Fulham,H
+03-Apr,Chelsea,Wolves,H
+03-Apr,Tottenham,Chelsea,A
+03-Apr,Chelsea,Southampton,H
+03-Apr,Chelsea,Leeds,H
+04-May,Chelsea,"Man United",H
+04-May,Birmingham,Chelsea,A
+04-May,"Crystal Palace",Chelsea,A
+04-May,Chelsea,Southampton,H
+04-May,Middlesbrough,Chelsea,A
+04-May,Chelsea,Liverpool,H
+04-May,Chelsea,Blackburn,H
+04-May,"West Brom",Chelsea,A
+04-May,Chelsea,Everton,H
+04-May,Fulham,Chelsea,A
+04-May,Charlton,Chelsea,A
+04-May,Chelsea,Newcastle,H
+04-May,Chelsea,Norwich,H
+04-May,Chelsea,"Aston Villa",H
+04-May,Portsmouth,Chelsea,A
+04-May,Liverpool,Chelsea,A
+04-May,Chelsea,Middlesbrough,H
+04-May,Tottenham,Chelsea,A
+04-May,Chelsea,Portsmouth,H
+04-May,Blackburn,Chelsea,A
+04-May,Everton,Chelsea,A
+04-May,Norwich,Chelsea,A
+04-May,Chelsea,"West Brom",H
+04-May,Chelsea,"Crystal Palace",H
+04-May,Southampton,Chelsea,A
+04-May,Chelsea,Fulham,H
+04-May,Bolton,Chelsea,A
+04-May,Chelsea,Charlton,H
+04-May,"Man United",Chelsea,A
+05-Jun,Wigan,Chelsea,A
+05-Jun,Chelsea,Arsenal,H
+05-Jun,Chelsea,"West Brom",H
+05-Jun,Tottenham,Chelsea,A
+05-Jun,Chelsea,Sunderland,H
+05-Jun,Charlton,Chelsea,A
+05-Jun,Chelsea,"Aston Villa",H
+05-Jun,Liverpool,Chelsea,A
+05-Jun,Chelsea,Bolton,H
+05-Jun,Chelsea,Blackburn,H
+05-Jun,Chelsea,Newcastle,H
+05-Jun,Portsmouth,Chelsea,A
+05-Jun,Chelsea,Middlesbrough,H
+05-Jun,Chelsea,Wigan,H
+05-Jun,Arsenal,Chelsea,A
+05-Jun,Chelsea,Fulham,H
+05-Jun,"Man City",Chelsea,A
+05-Jun,Chelsea,Birmingham,H
+05-Jun,"West Ham",Chelsea,A
+05-Jun,Sunderland,Chelsea,A
+05-Jun,Chelsea,Liverpool,H
+05-Jun,Chelsea,Portsmouth,H
+05-Jun,"West Brom",Chelsea,A
+05-Jun,Chelsea,Tottenham,H
+05-Jun,Chelsea,"Man City",H
+05-Jun,Chelsea,"West Ham",H
+05-Jun,Bolton,Chelsea,A
+05-Jun,Chelsea,Everton,H
+05-Jun,Chelsea,"Man United",H
+06-Jul,Chelsea,"Man City",H
+06-Jul,Blackburn,Chelsea,A
+06-Jul,Chelsea,Charlton,H
+06-Jul,Chelsea,Liverpool,H
+06-Jul,Fulham,Chelsea,A
+06-Jul,Reading,Chelsea,A
+06-Jul,Chelsea,Portsmouth,H
+06-Jul,"Sheffield United",Chelsea,A
+06-Jul,Chelsea,Watford,H
+06-Jul,Chelsea,"West Ham",H
+06-Jul,Bolton,Chelsea,A
+06-Jul,Chelsea,Newcastle,H
+06-Jul,Everton,Chelsea,A
+06-Jul,Wigan,Chelsea,A
+06-Jul,Chelsea,Wigan,H
+06-Jul,Chelsea,Blackburn,H
+06-Jul,Charlton,Chelsea,A
+06-Jul,Chelsea,Middlesbrough,H
+06-Jul,Portsmouth,Chelsea,A
+06-Jul,"Man City",Chelsea,A
+06-Jul,Chelsea,"Sheffield United",H
+06-Jul,Watford,Chelsea,A
+06-Jul,Chelsea,Tottenham,H
+06-Jul,"West Ham",Chelsea,A
+07-Aug,Chelsea,Birmingham,H
+07-Aug,Reading,Chelsea,A
+07-Aug,Chelsea,Portsmouth,H
+07-Aug,Bolton,Chelsea,A
+07-Aug,Middlesbrough,Chelsea,A
+07-Aug,Chelsea,"Man City",H
+07-Aug,Wigan,Chelsea,A
+07-Aug,Derby,Chelsea,A
+07-Aug,Chelsea,"West Ham",H
+07-Aug,Chelsea,Sunderland,H
+07-Aug,Blackburn,Chelsea,A
+07-Aug,Chelsea,Newcastle,H
+07-Aug,Fulham,Chelsea,A
+07-Aug,Chelsea,Tottenham,H
+07-Aug,Birmingham,Chelsea,A
+07-Aug,Chelsea,Reading,H
+07-Aug,"West Ham",Chelsea,A
+07-Aug,Chelsea,Derby,H
+07-Aug,Sunderland,Chelsea,A
+07-Aug,Chelsea,Arsenal,H
+07-Aug,Chelsea,Middlesbrough,H
+07-Aug,"Man City",Chelsea,A
+07-Aug,Everton,Chelsea,A
+07-Aug,Chelsea,"Man United",H
+07-Aug,Newcastle,Chelsea,A
+08-Sep,Chelsea,Portsmouth,H
+08-Sep,Wigan,Chelsea,A
+08-Sep,"Man City",Chelsea,A
+08-Sep,Stoke,Chelsea,A
+08-Sep,Chelsea,"Aston Villa",H
+08-Sep,Middlesbrough,Chelsea,A
+08-Sep,Hull,Chelsea,A
+08-Sep,Chelsea,Sunderland,H
+08-Sep,Blackburn,Chelsea,A
+08-Sep,"West Brom",Chelsea,A
+08-Sep,Bolton,Chelsea,A
+08-Sep,Chelsea,"West Brom",H
+08-Sep,Chelsea,Stoke,H
+08-Sep,Chelsea,Middlesbrough,H
+08-Sep,"Aston Villa",Chelsea,A
+08-Sep,Chelsea,Wigan,H
+08-Sep,Portsmouth,Chelsea,A
+08-Sep,Chelsea,"Man City",H
+08-Sep,Newcastle,Chelsea,A
+08-Sep,Chelsea,Bolton,H
+08-Sep,"West Ham",Chelsea,A
+08-Sep,Chelsea,Fulham,H
+08-Sep,Arsenal,Chelsea,A
+08-Sep,Chelsea,Blackburn,H
+08-Sep,Sunderland,Chelsea,A
+09-Oct,Chelsea,Hull,H
+09-Oct,Sunderland,Chelsea,A
+09-Oct,Fulham,Chelsea,A
+09-Oct,Chelsea,Burnley,H
+09-Oct,Stoke,Chelsea,A
+09-Oct,Chelsea,Tottenham,H
+09-Oct,Chelsea,Liverpool,H
+09-Oct,Chelsea,Blackburn,H
+09-Oct,Bolton,Chelsea,A
+09-Oct,Chelsea,"Man United",H
+09-Oct,Chelsea,Wolves,H
+09-Oct,Arsenal,Chelsea,A
+09-Oct,Chelsea,Portsmouth,H
+09-Oct,Chelsea,Fulham,H
+09-Oct,Chelsea,Sunderland,H
+09-Oct,Chelsea,Birmingham,H
+09-Oct,Burnley,Chelsea,A
+09-Oct,Chelsea,Arsenal,H
+09-Oct,Wolves,Chelsea,A
+09-Oct,Chelsea,"West Ham",H
+09-Oct,Portsmouth,Chelsea,A
+09-Oct,Chelsea,"Aston Villa",H
+09-Oct,"Man United",Chelsea,A
+09-Oct,Chelsea,Bolton,H
+09-Oct,Chelsea,Stoke,H
+09-Oct,Liverpool,Chelsea,A
+09-Oct,Chelsea,Wigan,H
+10-Nov,Chelsea,"West Brom",H
+10-Nov,Wigan,Chelsea,A
+10-Nov,Chelsea,Stoke,H
+10-Nov,"West Ham",Chelsea,A
+10-Nov,Chelsea,Blackpool,H
+10-Nov,Chelsea,Arsenal,H
+10-Nov,Chelsea,Wolves,H
+10-Nov,Blackburn,Chelsea,A
+10-Nov,Chelsea,Fulham,H
+10-Nov,Chelsea,Bolton,H
+10-Nov,Chelsea,Blackburn,H
+10-Nov,Bolton,Chelsea,A
+10-Nov,Sunderland,Chelsea,A
+10-Nov,Chelsea,"Man United",H
+10-Nov,Blackpool,Chelsea,A
+10-Nov,Chelsea,"Man City",H
+10-Nov,Chelsea,Wigan,H
+10-Nov,"West Brom",Chelsea,A
+10-Nov,Chelsea,Birmingham,H
+10-Nov,Chelsea,"West Ham",H
+10-Nov,Chelsea,Tottenham,H
+11-Dec,Chelsea,"West Brom",H
+11-Dec,Chelsea,Norwich,H
+11-Dec,Sunderland,Chelsea,A
+11-Dec,Chelsea,Swansea,H
+11-Dec,Bolton,Chelsea,A
+11-Dec,Chelsea,Everton,H
+11-Dec,Blackburn,Chelsea,A
+11-Dec,Chelsea,Wolves,H
+11-Dec,Newcastle,Chelsea,A
+11-Dec,Chelsea,"Man City",H
+11-Dec,Wolves,Chelsea,A
+11-Dec,Chelsea,Sunderland,H
+11-Dec,Chelsea,Bolton,H
+11-Dec,Chelsea,Stoke,H
+11-Dec,"Aston Villa",Chelsea,A
+11-Dec,Chelsea,Wigan,H
+11-Dec,Chelsea,QPR,H
+11-Dec,Chelsea,Blackburn,H
+2012-13,Wigan,Chelsea,A
+2012-13,Chelsea,Reading,H
+2012-13,Chelsea,Newcastle,H
+2012-13,Chelsea,Stoke,H
+2012-13,Arsenal,Chelsea,A
+2012-13,Chelsea,Norwich,H
+2012-13,Tottenham,Chelsea,A
+2012-13,Sunderland,Chelsea,A
+2012-13,Chelsea,"Aston Villa",H
+2012-13,Norwich,Chelsea,A
+2012-13,Everton,Chelsea,A
+2012-13,Stoke,Chelsea,A
+2012-13,Chelsea,Arsenal,H
+2012-13,Chelsea,Wigan,H
+2012-13,Chelsea,"West Brom",H
+2012-13,Chelsea,"West Ham",H
+2012-13,Chelsea,Sunderland,H
+2012-13,Fulham,Chelsea,A
+2012-13,Chelsea,Swansea,H
+2012-13,"Man United",Chelsea,A
+2012-13,"Aston Villa",Chelsea,A
+2012-13,Chelsea,Everton,H
+2013-14,Chelsea,Hull,H
+2013-14,Chelsea,"Aston Villa",H
+2013-14,Chelsea,Fulham,H
+2013-14,Norwich,Chelsea,A
+2013-14,Chelsea,Cardiff,H
+2013-14,Chelsea,"Man City",H
+2013-14,"West Ham",Chelsea,A
+2013-14,Chelsea,Southampton,H
+2013-14,Sunderland,Chelsea,A
+2013-14,Chelsea,"Crystal Palace",H
+2013-14,Chelsea,Swansea,H
+2013-14,Chelsea,Liverpool,H
+2013-14,Southampton,Chelsea,A
+2013-14,Hull,Chelsea,A
+2013-14,Chelsea,"Man United",H
+2013-14,"Man City",Chelsea,A
+2013-14,Chelsea,Newcastle,H
+2013-14,Chelsea,Everton,H
+2013-14,Fulham,Chelsea,A
+2013-14,Chelsea,Tottenham,H
+2013-14,Chelsea,Arsenal,H
+2013-14,Chelsea,Stoke,H
+2013-14,Swansea,Chelsea,A
+2013-14,Liverpool,Chelsea,A
+2013-14,Cardiff,Chelsea,A
+2014-15,Burnley,Chelsea,A
+2014-15,Chelsea,Leicester,H
+2014-15,Everton,Chelsea,A
+2014-15,Chelsea,Swansea,H
+2014-15,Chelsea,"Aston Villa",H
+2014-15,Chelsea,Arsenal,H
+2014-15,"Crystal Palace",Chelsea,A
+2014-15,Chelsea,QPR,H
+2014-15,Liverpool,Chelsea,A
+2014-15,Chelsea,"West Brom",H
+2014-15,Chelsea,Tottenham,H
+2014-15,Chelsea,Hull,H
+2014-15,Stoke,Chelsea,A
+2014-15,Chelsea,"West Ham",H
+2014-15,Chelsea,Newcastle,H
+2014-15,Swansea,Chelsea,A
+2014-15,"Aston Villa",Chelsea,A
+2014-15,Chelsea,Everton,H
+2014-15,"West Ham",Chelsea,A
+2014-15,Hull,Chelsea,A
+2014-15,Chelsea,Stoke,H
+2014-15,QPR,Chelsea,A
+2014-15,Chelsea,"Man United",H
+2014-15,Leicester,Chelsea,A
+2014-15,Chelsea,"Crystal Palace",H
+2014-15,Chelsea,Sunderland,H
+2015-16,"West Brom",Chelsea,A
+2015-16,Chelsea,Arsenal,H
+2015-16,Chelsea,"Aston Villa",H
+2015-16,Chelsea,Norwich,H
+2015-16,Chelsea,Sunderland,H
+2015-16,"Crystal Palace",Chelsea,A
+2015-16,Arsenal,Chelsea,A
+2015-16,Chelsea,Newcastle,H
+2015-16,Southampton,Chelsea,A
+2015-16,Norwich,Chelsea,A
+2015-16,"Aston Villa",Chelsea,A
+2015-16,Bournemouth,Chelsea,A
+2016-17,Chelsea,"West Ham",H
+2016-17,Watford,Chelsea,A
+2016-17,Chelsea,Burnley,H
+2016-17,Hull,Chelsea,A
+2016-17,Chelsea,Leicester,H
+2016-17,Chelsea,"Man United",H
+2016-17,Southampton,Chelsea,A
+2016-17,Chelsea,Everton,H
+2016-17,Middlesbrough,Chelsea,A
+2016-17,Chelsea,Tottenham,H
+2016-17,"Man City",Chelsea,A
+2016-17,Chelsea,"West Brom",H
+2016-17,Sunderland,Chelsea,A
+2016-17,"Crystal Palace",Chelsea,A
+2016-17,Chelsea,Bournemouth,H
+2016-17,Chelsea,Stoke,H
+2016-17,Leicester,Chelsea,A
+2016-17,Chelsea,Hull,H
+2016-17,Chelsea,Arsenal,H
+2016-17,Chelsea,Swansea,H
+2016-17,"West Ham",Chelsea,A
+2016-17,Stoke,Chelsea,A
+2016-17,Chelsea,"Man City",H
+2016-17,Bournemouth,Chelsea,A
+2016-17,Chelsea,Southampton,H
+2016-17,Everton,Chelsea,A
+2016-17,Chelsea,Middlesbrough,H
+2016-17,"West Brom",Chelsea,A
+2016-17,Chelsea,Watford,H
+2016-17,Chelsea,Sunderland,H
+2017-18,Tottenham,Chelsea,A
+2017-18,Chelsea,Everton,H
+2017-18,Leicester,Chelsea,A
+2017-18,Stoke,Chelsea,A
+2017-18,Chelsea,Watford,H
+2017-18,Bournemouth,Chelsea,A
+2017-18,Chelsea,"Man United",H
+2017-18,"West Brom",Chelsea,A
+2017-18,Chelsea,Swansea,H
+2017-18,Chelsea,Newcastle,H
+2017-18,Huddersfield,Chelsea,A
+2017-18,Chelsea,Southampton,H
+2017-18,Chelsea,Brighton,H
+2017-18,Chelsea,Stoke,H
+2017-18,Brighton,Chelsea,A
+2017-18,Chelsea,"West Brom",H
+2017-18,Chelsea,"Crystal Palace",H
+2017-18,Southampton,Chelsea,A
+2017-18,Burnley,Chelsea,A
+2017-18,Swansea,Chelsea,A
+2017-18,Chelsea,Liverpool,H
+2018-19,Huddersfield,Chelsea,A
+2018-19,Chelsea,Arsenal,H
+2018-19,Newcastle,Chelsea,A
+2018-19,Chelsea,Bournemouth,H
+2018-19,Chelsea,Cardiff,H
+2018-19,Southampton,Chelsea,A
+2018-19,Burnley,Chelsea,A
+2018-19,Chelsea,"Crystal Palace",H
+2018-19,Chelsea,Fulham,H
+2018-19,Chelsea,"Man City",H
+2018-19,Brighton,Chelsea,A
+2018-19,Watford,Chelsea,A
+2018-19,"Crystal Palace",Chelsea,A
+2018-19,Chelsea,Newcastle,H
+2018-19,Chelsea,Huddersfield,H
+2018-19,Chelsea,Tottenham,H
+2018-19,Fulham,Chelsea,A
+2018-19,Cardiff,Chelsea,A
+2018-19,Chelsea,Brighton,H
+2018-19,Chelsea,"West Ham",H
+2018-19,Chelsea,Watford,H
+2019-20,Norwich,Chelsea,A
+2019-20,Wolves,Chelsea,A
+2019-20,Chelsea,Brighton,H
+2019-20,Southampton,Chelsea,A
+2019-20,Chelsea,Newcastle,H
+2019-20,Burnley,Chelsea,A
+2019-20,Watford,Chelsea,A
+2019-20,Chelsea,"Crystal Palace",H
+2019-20,Chelsea,"Aston Villa",H
+2019-20,Tottenham,Chelsea,A
+2019-20,Arsenal,Chelsea,A
+2019-20,Chelsea,Burnley,H
+2019-20,Chelsea,Tottenham,H
+2019-20,Chelsea,Everton,H
+2019-20,"Aston Villa",Chelsea,A
+2019-20,Chelsea,"Man City",H
+2019-20,Chelsea,Watford,H
+2019-20,"Crystal Palace",Chelsea,A
+2019-20,Chelsea,Norwich,H
+2019-20,Chelsea,Wolves,H
+2020-21,Brighton,Chelsea,A
+2020-21,Chelsea,"Crystal Palace",H
+2020-21,Burnley,Chelsea,A
+2020-21,Chelsea,"Sheffield United",H
+2020-21,Newcastle,Chelsea,A
+2020-21,Chelsea,Leeds,H
+2020-21,Chelsea,"West Ham",H
+2020-21,Fulham,Chelsea,A
+2020-21,Chelsea,Burnley,H
+2020-21,Tottenham,Chelsea,A
+2020-21,"Sheffield United",Chelsea,A
+2020-21,Chelsea,Newcastle,H
+2020-21,Liverpool,Chelsea,A
+2020-21,Chelsea,Everton,H
+2020-21,"Crystal Palace",Chelsea,A
+2020-21,"West Ham",Chelsea,A
+2020-21,Chelsea,Fulham,H
+2020-21,"Man City",Chelsea,A
+2020-21,Chelsea,Leicester,H
+2021-22,Chelsea,"Crystal Palace",H
+2021-22,Arsenal,Chelsea,A
+2021-22,Chelsea,"Aston Villa",H
+2021-22,Tottenham,Chelsea,A
+2021-22,Chelsea,Southampton,H
+2021-22,Brentford,Chelsea,A
+2021-22,Chelsea,Norwich,H
+2021-22,Newcastle,Chelsea,A
+2021-22,Leicester,Chelsea,A
+2021-22,Watford,Chelsea,A
+2021-22,Chelsea,Leeds,H
+2021-22,"Aston Villa",Chelsea,A
+2021-22,Chelsea,Tottenham,H
+2021-22,"Crystal Palace",Chelsea,A
+2021-22,Burnley,Chelsea,A
+2021-22,Norwich,Chelsea,A
+2021-22,Chelsea,Newcastle,H
+2021-22,Southampton,Chelsea,A

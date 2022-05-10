@@ -1,0 +1,459 @@
+season,hometeam,awayteam,FTR
+Jan-00,Liverpool,Bradford,H
+Jan-00,Liverpool,"Aston Villa",H
+Jan-00,Liverpool,"Man City",H
+Jan-00,Derby,Liverpool,A
+Jan-00,Liverpool,Leicester,H
+Jan-00,Liverpool,Everton,H
+Jan-00,Liverpool,Coventry,H
+Jan-00,Liverpool,Charlton,H
+Jan-00,"Man United",Liverpool,A
+Jan-00,Liverpool,Arsenal,H
+Jan-00,Liverpool,Southampton,H
+Jan-00,"Aston Villa",Liverpool,A
+Jan-00,Liverpool,"West Ham",H
+Jan-00,Liverpool,"Man United",H
+Jan-00,Everton,Liverpool,A
+Jan-00,Liverpool,Tottenham,H
+Jan-00,Coventry,Liverpool,A
+Jan-00,Bradford,Liverpool,A
+Jan-00,Liverpool,Newcastle,H
+Jan-00,Charlton,Liverpool,A
+01-Feb,Liverpool,"West Ham",H
+01-Feb,Everton,Liverpool,A
+01-Feb,Liverpool,Tottenham,H
+01-Feb,Newcastle,Liverpool,A
+01-Feb,Leicester,Liverpool,A
+01-Feb,Charlton,Liverpool,A
+01-Feb,Liverpool,"Man United",H
+01-Feb,Liverpool,Sunderland,H
+01-Feb,Derby,Liverpool,A
+01-Feb,Liverpool,Middlesbrough,H
+01-Feb,"Aston Villa",Liverpool,A
+01-Feb,"Man United",Liverpool,A
+01-Feb,Liverpool,Leicester,H
+01-Feb,Leeds,Liverpool,A
+01-Feb,Ipswich,Liverpool,A
+01-Feb,Fulham,Liverpool,A
+01-Feb,Liverpool,Newcastle,H
+01-Feb,Middlesbrough,Liverpool,A
+01-Feb,Liverpool,Chelsea,H
+01-Feb,Liverpool,Charlton,H
+01-Feb,Sunderland,Liverpool,A
+01-Feb,Liverpool,Derby,H
+01-Feb,Liverpool,Blackburn,H
+01-Feb,Liverpool,Ipswich,H
+02-Mar,"Aston Villa",Liverpool,A
+02-Mar,Liverpool,Southampton,H
+02-Mar,Bolton,Liverpool,A
+02-Mar,Liverpool,"West Brom",H
+02-Mar,"Man City",Liverpool,A
+02-Mar,Liverpool,Chelsea,H
+02-Mar,Leeds,Liverpool,A
+02-Mar,Liverpool,Tottenham,H
+02-Mar,Liverpool,"West Ham",H
+02-Mar,Southampton,Liverpool,A
+02-Mar,"West Ham",Liverpool,A
+02-Mar,Liverpool,Bolton,H
+02-Mar,Tottenham,Liverpool,A
+02-Mar,Liverpool,Leeds,H
+02-Mar,Liverpool,Fulham,H
+02-Mar,Everton,Liverpool,A
+02-Mar,Liverpool,Charlton,H
+02-Mar,"West Brom",Liverpool,A
+03-Apr,Everton,Liverpool,A
+03-Apr,Blackburn,Liverpool,A
+03-Apr,Liverpool,Leicester,H
+03-Apr,Liverpool,Leeds,H
+03-Apr,Fulham,Liverpool,A
+03-Apr,Liverpool,Birmingham,H
+03-Apr,Liverpool,Bolton,H
+03-Apr,Chelsea,Liverpool,A
+03-Apr,Liverpool,"Aston Villa",H
+03-Apr,Liverpool,"Man City",H
+03-Apr,Liverpool,Portsmouth,H
+03-Apr,Liverpool,Wolves,H
+03-Apr,Liverpool,Blackburn,H
+03-Apr,"Man United",Liverpool,A
+03-Apr,Liverpool,Middlesbrough,H
+03-Apr,Birmingham,Liverpool,A
+04-May,Liverpool,"Man City",H
+04-May,Liverpool,"West Brom",H
+04-May,Liverpool,Norwich,H
+04-May,Fulham,Liverpool,A
+04-May,Liverpool,Charlton,H
+04-May,Liverpool,"Crystal Palace",H
+04-May,Liverpool,Arsenal,H
+04-May,Liverpool,Newcastle,H
+04-May,"West Brom",Liverpool,A
+04-May,Liverpool,Southampton,H
+04-May,Norwich,Liverpool,A
+04-May,Charlton,Liverpool,A
+04-May,Liverpool,Fulham,H
+04-May,Liverpool,Everton,H
+04-May,Liverpool,Bolton,H
+04-May,Portsmouth,Liverpool,A
+04-May,Liverpool,"Aston Villa",H
+05-Jun,Liverpool,Sunderland,H
+05-Jun,Liverpool,Blackburn,H
+05-Jun,Liverpool,"West Ham",H
+05-Jun,"Aston Villa",Liverpool,A
+05-Jun,Liverpool,Portsmouth,H
+05-Jun,"Man City",Liverpool,A
+05-Jun,Sunderland,Liverpool,A
+05-Jun,Liverpool,Wigan,H
+05-Jun,Liverpool,Middlesbrough,H
+05-Jun,Liverpool,Newcastle,H
+05-Jun,Everton,Liverpool,A
+05-Jun,Liverpool,"West Brom",H
+05-Jun,Liverpool,Tottenham,H
+05-Jun,Wigan,Liverpool,A
+05-Jun,Liverpool,Arsenal,H
+05-Jun,Liverpool,"Man City",H
+05-Jun,Liverpool,Fulham,H
+05-Jun,Newcastle,Liverpool,A
+05-Jun,Liverpool,Everton,H
+05-Jun,"West Brom",Liverpool,A
+05-Jun,Liverpool,Bolton,H
+05-Jun,Blackburn,Liverpool,A
+05-Jun,"West Ham",Liverpool,A
+05-Jun,Liverpool,"Aston Villa",H
+05-Jun,Portsmouth,Liverpool,A
+06-Jul,Liverpool,"West Ham",H
+06-Jul,Liverpool,Newcastle,H
+06-Jul,Liverpool,Tottenham,H
+06-Jul,Liverpool,"Aston Villa",H
+06-Jul,Liverpool,Reading,H
+06-Jul,Liverpool,"Man City",H
+06-Jul,Wigan,Liverpool,A
+06-Jul,Liverpool,Fulham,H
+06-Jul,Charlton,Liverpool,A
+06-Jul,Liverpool,Watford,H
+06-Jul,Tottenham,Liverpool,A
+06-Jul,Liverpool,Bolton,H
+06-Jul,Watford,Liverpool,A
+06-Jul,Liverpool,Chelsea,H
+06-Jul,"West Ham",Liverpool,A
+06-Jul,Liverpool,"Sheffield United",H
+06-Jul,Liverpool,Arsenal,H
+06-Jul,Reading,Liverpool,A
+06-Jul,Liverpool,Middlesbrough,H
+06-Jul,Liverpool,Wigan,H
+07-Aug,"Aston Villa",Liverpool,A
+07-Aug,Sunderland,Liverpool,A
+07-Aug,Liverpool,Derby,H
+07-Aug,Wigan,Liverpool,A
+07-Aug,Everton,Liverpool,A
+07-Aug,Liverpool,Fulham,H
+07-Aug,Newcastle,Liverpool,A
+07-Aug,Liverpool,Bolton,H
+07-Aug,Liverpool,Portsmouth,H
+07-Aug,Derby,Liverpool,A
+07-Aug,Liverpool,Sunderland,H
+07-Aug,Liverpool,Middlesbrough,H
+07-Aug,Bolton,Liverpool,A
+07-Aug,Liverpool,"West Ham",H
+07-Aug,Liverpool,Newcastle,H
+07-Aug,Liverpool,Reading,H
+07-Aug,Liverpool,Everton,H
+07-Aug,Liverpool,Blackburn,H
+07-Aug,Fulham,Liverpool,A
+07-Aug,Liverpool,"Man City",H
+07-Aug,Tottenham,Liverpool,A
+08-Sep,Sunderland,Liverpool,A
+08-Sep,Liverpool,Middlesbrough,H
+08-Sep,Liverpool,"Man United",H
+08-Sep,Everton,Liverpool,A
+08-Sep,"Man City",Liverpool,A
+08-Sep,Liverpool,Wigan,H
+08-Sep,Chelsea,Liverpool,A
+08-Sep,Liverpool,Portsmouth,H
+08-Sep,Liverpool,"West Brom",H
+08-Sep,Bolton,Liverpool,A
+08-Sep,Blackburn,Liverpool,A
+08-Sep,Liverpool,Bolton,H
+08-Sep,Newcastle,Liverpool,A
+08-Sep,Liverpool,Chelsea,H
+08-Sep,Portsmouth,Liverpool,A
+08-Sep,Liverpool,Sunderland,H
+08-Sep,"Man United",Liverpool,A
+08-Sep,Liverpool,"Aston Villa",H
+08-Sep,Fulham,Liverpool,A
+08-Sep,Liverpool,Blackburn,H
+08-Sep,Hull,Liverpool,A
+08-Sep,Liverpool,Newcastle,H
+08-Sep,"West Ham",Liverpool,A
+08-Sep,"West Brom",Liverpool,A
+08-Sep,Liverpool,Tottenham,H
+09-Oct,Liverpool,Stoke,H
+09-Oct,Bolton,Liverpool,A
+09-Oct,Liverpool,Burnley,H
+09-Oct,"West Ham",Liverpool,A
+09-Oct,Liverpool,Hull,H
+09-Oct,Liverpool,"Man United",H
+09-Oct,Everton,Liverpool,A
+09-Oct,Liverpool,Wigan,H
+09-Oct,Liverpool,Wolves,H
+09-Oct,"Aston Villa",Liverpool,A
+09-Oct,Liverpool,Tottenham,H
+09-Oct,Liverpool,Bolton,H
+09-Oct,Liverpool,Everton,H
+09-Oct,Liverpool,Blackburn,H
+09-Oct,Liverpool,Portsmouth,H
+09-Oct,Liverpool,Sunderland,H
+09-Oct,Liverpool,"West Ham",H
+09-Oct,Burnley,Liverpool,A
+10-Nov,Liverpool,"West Brom",H
+10-Nov,Liverpool,Blackburn,H
+10-Nov,Bolton,Liverpool,A
+10-Nov,Liverpool,Chelsea,H
+10-Nov,Liverpool,"West Ham",H
+10-Nov,Liverpool,"Aston Villa",H
+10-Nov,Liverpool,Bolton,H
+10-Nov,Wolves,Liverpool,A
+10-Nov,Liverpool,Fulham,H
+10-Nov,Liverpool,Stoke,H
+10-Nov,Chelsea,Liverpool,A
+10-Nov,Liverpool,"Man United",H
+10-Nov,Sunderland,Liverpool,A
+10-Nov,Liverpool,"Man City",H
+10-Nov,Liverpool,Birmingham,H
+10-Nov,Liverpool,Newcastle,H
+10-Nov,Fulham,Liverpool,A
+11-Dec,Arsenal,Liverpool,A
+11-Dec,Liverpool,Bolton,H
+11-Dec,Liverpool,Wolves,H
+11-Dec,Everton,Liverpool,A
+11-Dec,"West Brom",Liverpool,A
+11-Dec,Chelsea,Liverpool,A
+11-Dec,Liverpool,QPR,H
+11-Dec,"Aston Villa",Liverpool,A
+11-Dec,Liverpool,Newcastle,H
+11-Dec,Wolves,Liverpool,A
+11-Dec,Liverpool,Everton,H
+11-Dec,Blackburn,Liverpool,A
+11-Dec,Norwich,Liverpool,A
+11-Dec,Liverpool,Chelsea,H
+2012-13,Norwich,Liverpool,A
+2012-13,Liverpool,Reading,H
+2012-13,Liverpool,Wigan,H
+2012-13,Liverpool,Southampton,H
+2012-13,"West Ham",Liverpool,A
+2012-13,Liverpool,Fulham,H
+2012-13,QPR,Liverpool,A
+2012-13,Liverpool,Sunderland,H
+2012-13,Liverpool,Norwich,H
+2012-13,Liverpool,Swansea,H
+2012-13,Wigan,Liverpool,A
+2012-13,Liverpool,Tottenham,H
+2012-13,"Aston Villa",Liverpool,A
+2012-13,Newcastle,Liverpool,A
+2012-13,Fulham,Liverpool,A
+2012-13,Liverpool,QPR,H
+2013-14,Liverpool,Stoke,H
+2013-14,"Aston Villa",Liverpool,A
+2013-14,Liverpool,"Man United",H
+2013-14,Sunderland,Liverpool,A
+2013-14,Liverpool,"Crystal Palace",H
+2013-14,Liverpool,"West Brom",H
+2013-14,Liverpool,Fulham,H
+2013-14,Liverpool,Norwich,H
+2013-14,Liverpool,"West Ham",H
+2013-14,Tottenham,Liverpool,A
+2013-14,Liverpool,Cardiff,H
+2013-14,Liverpool,Hull,H
+2013-14,Stoke,Liverpool,A
+2013-14,Liverpool,Everton,H
+2013-14,Liverpool,Arsenal,H
+2013-14,Fulham,Liverpool,A
+2013-14,Liverpool,Swansea,H
+2013-14,Southampton,Liverpool,A
+2013-14,"Man United",Liverpool,A
+2013-14,Cardiff,Liverpool,A
+2013-14,Liverpool,Sunderland,H
+2013-14,Liverpool,Tottenham,H
+2013-14,"West Ham",Liverpool,A
+2013-14,Liverpool,"Man City",H
+2013-14,Norwich,Liverpool,A
+2013-14,Liverpool,Newcastle,H
+2014-15,Liverpool,Southampton,H
+2014-15,Tottenham,Liverpool,A
+2014-15,Liverpool,"West Brom",H
+2014-15,QPR,Liverpool,A
+2014-15,Liverpool,Stoke,H
+2014-15,Leicester,Liverpool,A
+2014-15,Burnley,Liverpool,A
+2014-15,Liverpool,Swansea,H
+2014-15,Sunderland,Liverpool,A
+2014-15,"Aston Villa",Liverpool,A
+2014-15,Liverpool,"West Ham",H
+2014-15,Liverpool,Tottenham,H
+2014-15,Southampton,Liverpool,A
+2014-15,Liverpool,"Man City",H
+2014-15,Liverpool,Burnley,H
+2014-15,Swansea,Liverpool,A
+2014-15,Liverpool,Newcastle,H
+2014-15,Liverpool,QPR,H
+2015-16,Stoke,Liverpool,A
+2015-16,Liverpool,Bournemouth,H
+2015-16,Liverpool,"Aston Villa",H
+2015-16,Chelsea,Liverpool,A
+2015-16,"Man City",Liverpool,A
+2015-16,Liverpool,Swansea,H
+2015-16,Liverpool,Leicester,H
+2015-16,Sunderland,Liverpool,A
+2015-16,Norwich,Liverpool,A
+2015-16,"Aston Villa",Liverpool,A
+2015-16,Liverpool,"Man City",H
+2015-16,"Crystal Palace",Liverpool,A
+2015-16,Liverpool,Stoke,H
+2015-16,Bournemouth,Liverpool,A
+2015-16,Liverpool,Everton,H
+2015-16,Liverpool,Watford,H
+2016-17,Arsenal,Liverpool,A
+2016-17,Liverpool,Leicester,H
+2016-17,Chelsea,Liverpool,A
+2016-17,Liverpool,Hull,H
+2016-17,Swansea,Liverpool,A
+2016-17,Liverpool,"West Brom",H
+2016-17,"Crystal Palace",Liverpool,A
+2016-17,Liverpool,Watford,H
+2016-17,Liverpool,Sunderland,H
+2016-17,Middlesbrough,Liverpool,A
+2016-17,Everton,Liverpool,A
+2016-17,Liverpool,Stoke,H
+2016-17,Liverpool,"Man City",H
+2016-17,Liverpool,Tottenham,H
+2016-17,Liverpool,Arsenal,H
+2016-17,Liverpool,Burnley,H
+2016-17,Liverpool,Everton,H
+2016-17,Stoke,Liverpool,A
+2016-17,"West Brom",Liverpool,A
+2016-17,Watford,Liverpool,A
+2016-17,"West Ham",Liverpool,A
+2016-17,Liverpool,Middlesbrough,H
+2017-18,Liverpool,"Crystal Palace",H
+2017-18,Liverpool,Arsenal,H
+2017-18,Leicester,Liverpool,A
+2017-18,Liverpool,Huddersfield,H
+2017-18,"West Ham",Liverpool,A
+2017-18,Liverpool,Southampton,H
+2017-18,Stoke,Liverpool,A
+2017-18,Brighton,Liverpool,A
+2017-18,Bournemouth,Liverpool,A
+2017-18,Liverpool,Swansea,H
+2017-18,Liverpool,Leicester,H
+2017-18,Burnley,Liverpool,A
+2017-18,Liverpool,"Man City",H
+2017-18,Huddersfield,Liverpool,A
+2017-18,Southampton,Liverpool,A
+2017-18,Liverpool,"West Ham",H
+2017-18,Liverpool,Newcastle,H
+2017-18,Liverpool,Watford,H
+2017-18,"Crystal Palace",Liverpool,A
+2017-18,Liverpool,Bournemouth,H
+2017-18,Liverpool,Brighton,H
+2018-19,Liverpool,"West Ham",H
+2018-19,"Crystal Palace",Liverpool,A
+2018-19,Liverpool,Brighton,H
+2018-19,Leicester,Liverpool,A
+2018-19,Tottenham,Liverpool,A
+2018-19,Liverpool,Southampton,H
+2018-19,Huddersfield,Liverpool,A
+2018-19,Liverpool,Cardiff,H
+2018-19,Liverpool,Fulham,H
+2018-19,Watford,Liverpool,A
+2018-19,Liverpool,Everton,H
+2018-19,Burnley,Liverpool,A
+2018-19,Bournemouth,Liverpool,A
+2018-19,Liverpool,"Man United",H
+2018-19,Wolves,Liverpool,A
+2018-19,Liverpool,Newcastle,H
+2018-19,Liverpool,Arsenal,H
+2018-19,Brighton,Liverpool,A
+2018-19,Liverpool,"Crystal Palace",H
+2018-19,Liverpool,Bournemouth,H
+2018-19,Liverpool,Watford,H
+2018-19,Liverpool,Burnley,H
+2018-19,Fulham,Liverpool,A
+2018-19,Liverpool,Tottenham,H
+2018-19,Southampton,Liverpool,A
+2018-19,Liverpool,Chelsea,H
+2018-19,Cardiff,Liverpool,A
+2018-19,Liverpool,Huddersfield,H
+2018-19,Newcastle,Liverpool,A
+2018-19,Liverpool,Wolves,H
+2019-20,Liverpool,Norwich,H
+2019-20,Southampton,Liverpool,A
+2019-20,Liverpool,Arsenal,H
+2019-20,Burnley,Liverpool,A
+2019-20,Liverpool,Newcastle,H
+2019-20,Chelsea,Liverpool,A
+2019-20,"Sheffield United",Liverpool,A
+2019-20,Liverpool,Leicester,H
+2019-20,Liverpool,Tottenham,H
+2019-20,"Aston Villa",Liverpool,A
+2019-20,Liverpool,"Man City",H
+2019-20,"Crystal Palace",Liverpool,A
+2019-20,Liverpool,Brighton,H
+2019-20,Liverpool,Everton,H
+2019-20,Bournemouth,Liverpool,A
+2019-20,Liverpool,Watford,H
+2019-20,Leicester,Liverpool,A
+2019-20,Liverpool,Wolves,H
+2019-20,Liverpool,"Sheffield United",H
+2019-20,Tottenham,Liverpool,A
+2019-20,Liverpool,"Man United",H
+2019-20,Wolves,Liverpool,A
+2019-20,"West Ham",Liverpool,A
+2019-20,Liverpool,Southampton,H
+2019-20,Norwich,Liverpool,A
+2019-20,Liverpool,"West Ham",H
+2019-20,Liverpool,Bournemouth,H
+2019-20,Liverpool,"Crystal Palace",H
+2019-20,Liverpool,"Aston Villa",H
+2019-20,Brighton,Liverpool,A
+2019-20,Liverpool,Chelsea,H
+2019-20,Newcastle,Liverpool,A
+2020-21,Liverpool,Leeds,H
+2020-21,Chelsea,Liverpool,A
+2020-21,Liverpool,Arsenal,H
+2020-21,Liverpool,"Sheffield United",H
+2020-21,Liverpool,"West Ham",H
+2020-21,Liverpool,Leicester,H
+2020-21,Liverpool,Wolves,H
+2020-21,Liverpool,Tottenham,H
+2020-21,"Crystal Palace",Liverpool,A
+2020-21,Tottenham,Liverpool,A
+2020-21,"West Ham",Liverpool,A
+2020-21,"Sheffield United",Liverpool,A
+2020-21,Wolves,Liverpool,A
+2020-21,Arsenal,Liverpool,A
+2020-21,Liverpool,"Aston Villa",H
+2020-21,Liverpool,Southampton,H
+2020-21,"Man United",Liverpool,A
+2020-21,"West Brom",Liverpool,A
+2020-21,Burnley,Liverpool,A
+2020-21,Liverpool,"Crystal Palace",H
+2021-22,Norwich,Liverpool,A
+2021-22,Liverpool,Burnley,H
+2021-22,Leeds,Liverpool,A
+2021-22,Liverpool,"Crystal Palace",H
+2021-22,Watford,Liverpool,A
+2021-22,"Man United",Liverpool,A
+2021-22,Liverpool,Arsenal,H
+2021-22,Liverpool,Southampton,H
+2021-22,Everton,Liverpool,A
+2021-22,Wolves,Liverpool,A
+2021-22,Liverpool,"Aston Villa",H
+2021-22,Liverpool,Newcastle,H
+2021-22,Liverpool,Brentford,H
+2021-22,"Crystal Palace",Liverpool,A
+2021-22,Liverpool,Leicester,H
+2021-22,Burnley,Liverpool,A
+2021-22,Liverpool,Norwich,H
+2021-22,Liverpool,Leeds,H
+2021-22,Liverpool,"West Ham",H
+2021-22,Brighton,Liverpool,A
+2021-22,Arsenal,Liverpool,A
+2021-22,Liverpool,Watford,H

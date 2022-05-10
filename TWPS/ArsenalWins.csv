@@ -1,0 +1,466 @@
+season,hometeam,awayteam,FTR
+Jan-00,Arsenal,Liverpool,H
+Jan-00,Arsenal,Charlton,H
+Jan-00,Arsenal,Coventry,H
+Jan-00,Arsenal,"Man United",H
+Jan-00,Arsenal,"Aston Villa",H
+Jan-00,"West Ham",Arsenal,A
+Jan-00,Arsenal,"Man City",H
+Jan-00,Middlesbrough,Arsenal,A
+Jan-00,Arsenal,Southampton,H
+Jan-00,Arsenal,Newcastle,H
+Jan-00,Arsenal,Leicester,H
+Jan-00,Arsenal,Bradford,H
+Jan-00,Coventry,Arsenal,A
+Jan-00,Arsenal,Ipswich,H
+Jan-00,Arsenal,"West Ham",H
+Jan-00,Arsenal,Tottenham,H
+Jan-00,"Man City",Arsenal,A
+Jan-00,Arsenal,Everton,H
+Jan-00,Derby,Arsenal,A
+Jan-00,Arsenal,Leeds,H
+01-Feb,Middlesbrough,Arsenal,A
+01-Feb,Arsenal,Leicester,H
+01-Feb,Fulham,Arsenal,A
+01-Feb,Derby,Arsenal,A
+01-Feb,Southampton,Arsenal,A
+01-Feb,Arsenal,"Man United",H
+01-Feb,Ipswich,Arsenal,A
+01-Feb,Arsenal,"Aston Villa",H
+01-Feb,Liverpool,Arsenal,A
+01-Feb,Arsenal,Chelsea,H
+01-Feb,Arsenal,Middlesbrough,H
+01-Feb,Leicester,Arsenal,A
+01-Feb,Blackburn,Arsenal,A
+01-Feb,Everton,Arsenal,A
+01-Feb,Arsenal,Fulham,H
+01-Feb,Newcastle,Arsenal,A
+01-Feb,Arsenal,Derby,H
+01-Feb,"Aston Villa",Arsenal,A
+01-Feb,Arsenal,Sunderland,H
+01-Feb,Charlton,Arsenal,A
+01-Feb,Arsenal,Tottenham,H
+01-Feb,Arsenal,Ipswich,H
+01-Feb,Arsenal,"West Ham",H
+01-Feb,Bolton,Arsenal,A
+01-Feb,"Man United",Arsenal,A
+01-Feb,Arsenal,Everton,H
+02-Mar,Arsenal,Birmingham,H
+02-Mar,Arsenal,"West Brom",H
+02-Mar,Arsenal,"Man City",H
+02-Mar,Charlton,Arsenal,A
+02-Mar,Arsenal,Bolton,H
+02-Mar,Leeds,Arsenal,A
+02-Mar,Arsenal,Sunderland,H
+02-Mar,Fulham,Arsenal,A
+02-Mar,Arsenal,Newcastle,H
+02-Mar,Arsenal,Tottenham,H
+02-Mar,Arsenal,"Aston Villa",H
+02-Mar,Arsenal,Middlesbrough,H
+02-Mar,"West Brom",Arsenal,A
+02-Mar,Arsenal,Chelsea,H
+02-Mar,Birmingham,Arsenal,A
+02-Mar,Arsenal,"West Ham",H
+02-Mar,Arsenal,Fulham,H
+02-Mar,"Man City",Arsenal,A
+02-Mar,Arsenal,Charlton,H
+02-Mar,Arsenal,Everton,H
+02-Mar,Middlesbrough,Arsenal,A
+02-Mar,Arsenal,Southampton,H
+02-Mar,Sunderland,Arsenal,A
+03-Apr,Arsenal,Everton,H
+03-Apr,Middlesbrough,Arsenal,A
+03-Apr,Arsenal,"Aston Villa",H
+03-Apr,"Man City",Arsenal,A
+03-Apr,Arsenal,Newcastle,H
+03-Apr,Liverpool,Arsenal,A
+03-Apr,Arsenal,Chelsea,H
+03-Apr,Leeds,Arsenal,A
+03-Apr,Arsenal,Tottenham,H
+03-Apr,Birmingham,Arsenal,A
+03-Apr,Arsenal,Blackburn,H
+03-Apr,Arsenal,Wolves,H
+03-Apr,Southampton,Arsenal,A
+03-Apr,Arsenal,Middlesbrough,H
+03-Apr,"Aston Villa",Arsenal,A
+03-Apr,Arsenal,"Man City",H
+03-Apr,Wolves,Arsenal,A
+03-Apr,Arsenal,Southampton,H
+03-Apr,Chelsea,Arsenal,A
+03-Apr,Arsenal,Charlton,H
+03-Apr,Blackburn,Arsenal,A
+03-Apr,Arsenal,Bolton,H
+03-Apr,Arsenal,Liverpool,H
+03-Apr,Arsenal,Leeds,H
+03-Apr,Fulham,Arsenal,A
+03-Apr,Arsenal,Leicester,H
+04-May,Everton,Arsenal,A
+04-May,Arsenal,Middlesbrough,H
+04-May,Arsenal,Blackburn,H
+04-May,Norwich,Arsenal,A
+04-May,Fulham,Arsenal,A
+04-May,"Man City",Arsenal,A
+04-May,Arsenal,Charlton,H
+04-May,Arsenal,"Aston Villa",H
+04-May,Tottenham,Arsenal,A
+04-May,Arsenal,Birmingham,H
+04-May,Portsmouth,Arsenal,A
+04-May,Arsenal,Fulham,H
+04-May,Newcastle,Arsenal,A
+04-May,Charlton,Arsenal,A
+04-May,Arsenal,Newcastle,H
+04-May,"Aston Villa",Arsenal,A
+04-May,Arsenal,"Crystal Palace",H
+04-May,Arsenal,Portsmouth,H
+04-May,Blackburn,Arsenal,A
+04-May,Arsenal,Norwich,H
+04-May,Middlesbrough,Arsenal,A
+04-May,Arsenal,Tottenham,H
+04-May,"West Brom",Arsenal,A
+04-May,Arsenal,Liverpool,H
+04-May,Arsenal,Everton,H
+05-Jun,Arsenal,Newcastle,H
+05-Jun,Arsenal,Fulham,H
+05-Jun,Arsenal,Everton,H
+05-Jun,Arsenal,Birmingham,H
+05-Jun,Arsenal,"Man City",H
+05-Jun,Arsenal,Sunderland,H
+05-Jun,Wigan,Arsenal,A
+05-Jun,Arsenal,Blackburn,H
+05-Jun,Charlton,Arsenal,A
+05-Jun,Arsenal,Portsmouth,H
+05-Jun,Arsenal,Middlesbrough,H
+05-Jun,Birmingham,Arsenal,A
+05-Jun,Fulham,Arsenal,A
+05-Jun,Arsenal,Liverpool,H
+05-Jun,Arsenal,Charlton,H
+05-Jun,Arsenal,"Aston Villa",H
+05-Jun,Arsenal,"West Brom",H
+05-Jun,Sunderland,Arsenal,A
+05-Jun,"Man City",Arsenal,A
+05-Jun,Arsenal,Wigan,H
+06-Jul,"Man United",Arsenal,A
+06-Jul,Arsenal,"Sheffield United",H
+06-Jul,Charlton,Arsenal,A
+06-Jul,Arsenal,Watford,H
+06-Jul,Reading,Arsenal,A
+06-Jul,Arsenal,Liverpool,H
+06-Jul,Arsenal,Tottenham,H
+06-Jul,Wigan,Arsenal,A
+06-Jul,Arsenal,Blackburn,H
+06-Jul,Watford,Arsenal,A
+06-Jul,Arsenal,Charlton,H
+06-Jul,Blackburn,Arsenal,A
+06-Jul,Arsenal,"Man United",H
+06-Jul,Arsenal,Wigan,H
+06-Jul,Arsenal,Reading,H
+06-Jul,"Aston Villa",Arsenal,A
+06-Jul,Arsenal,Bolton,H
+06-Jul,Arsenal,"Man City",H
+06-Jul,Arsenal,Fulham,H
+07-Aug,Arsenal,Fulham,H
+07-Aug,Arsenal,"Man City",H
+07-Aug,Arsenal,Portsmouth,H
+07-Aug,Tottenham,Arsenal,A
+07-Aug,Arsenal,Derby,H
+07-Aug,"West Ham",Arsenal,A
+07-Aug,Arsenal,Sunderland,H
+07-Aug,Arsenal,Bolton,H
+07-Aug,Reading,Arsenal,A
+07-Aug,Arsenal,Wigan,H
+07-Aug,"Aston Villa",Arsenal,A
+07-Aug,Arsenal,Chelsea,H
+07-Aug,Arsenal,Tottenham,H
+07-Aug,Everton,Arsenal,A
+07-Aug,Arsenal,"West Ham",H
+07-Aug,Fulham,Arsenal,A
+07-Aug,Arsenal,Newcastle,H
+07-Aug,"Man City",Arsenal,A
+07-Aug,Arsenal,Blackburn,H
+07-Aug,Bolton,Arsenal,A
+07-Aug,Arsenal,Reading,H
+07-Aug,Derby,Arsenal,A
+07-Aug,Arsenal,Everton,H
+07-Aug,Sunderland,Arsenal,A
+08-Sep,Arsenal,"West Brom",H
+08-Sep,Arsenal,Newcastle,H
+08-Sep,Blackburn,Arsenal,A
+08-Sep,Bolton,Arsenal,A
+08-Sep,Arsenal,Everton,H
+08-Sep,"West Ham",Arsenal,A
+08-Sep,Arsenal,"Man United",H
+08-Sep,Chelsea,Arsenal,A
+08-Sep,Arsenal,Wigan,H
+08-Sep,Arsenal,Portsmouth,H
+08-Sep,Arsenal,Bolton,H
+08-Sep,Hull,Arsenal,A
+08-Sep,"West Brom",Arsenal,A
+08-Sep,Arsenal,Blackburn,H
+08-Sep,Newcastle,Arsenal,A
+08-Sep,Arsenal,"Man City",H
+08-Sep,Wigan,Arsenal,A
+08-Sep,Arsenal,Middlesbrough,H
+08-Sep,Portsmouth,Arsenal,A
+08-Sep,Arsenal,Stoke,H
+09-Oct,Everton,Arsenal,A
+09-Oct,Arsenal,Portsmouth,H
+09-Oct,Arsenal,Wigan,H
+09-Oct,Fulham,Arsenal,A
+09-Oct,Arsenal,Blackburn,H
+09-Oct,Arsenal,Birmingham,H
+09-Oct,Arsenal,Tottenham,H
+09-Oct,Wolves,Arsenal,A
+09-Oct,Arsenal,Stoke,H
+09-Oct,Liverpool,Arsenal,A
+09-Oct,Arsenal,Hull,H
+09-Oct,Arsenal,"Aston Villa",H
+09-Oct,Portsmouth,Arsenal,A
+09-Oct,Bolton,Arsenal,A
+09-Oct,Arsenal,Bolton,H
+09-Oct,Arsenal,Liverpool,H
+09-Oct,Arsenal,Sunderland,H
+09-Oct,Stoke,Arsenal,A
+09-Oct,Arsenal,Burnley,H
+09-Oct,Hull,Arsenal,A
+09-Oct,Arsenal,"West Ham",H
+09-Oct,Arsenal,Wolves,H
+09-Oct,Arsenal,Fulham,H
+10-Nov,Arsenal,Blackpool,H
+10-Nov,Blackburn,Arsenal,A
+10-Nov,Arsenal,Bolton,H
+10-Nov,Arsenal,Birmingham,H
+10-Nov,"Man City",Arsenal,A
+10-Nov,Arsenal,"West Ham",H
+10-Nov,Wolves,Arsenal,A
+10-Nov,Everton,Arsenal,A
+10-Nov,"Aston Villa",Arsenal,A
+10-Nov,Arsenal,Fulham,H
+10-Nov,Arsenal,Chelsea,H
+10-Nov,Birmingham,Arsenal,A
+10-Nov,"West Ham",Arsenal,A
+10-Nov,Arsenal,Wigan,H
+10-Nov,Arsenal,Everton,H
+10-Nov,Arsenal,Wolves,H
+10-Nov,Arsenal,Stoke,H
+10-Nov,Blackpool,Arsenal,A
+10-Nov,Arsenal,"Man United",H
+11-Dec,Arsenal,Swansea,H
+11-Dec,Arsenal,Bolton,H
+11-Dec,Arsenal,Sunderland,H
+11-Dec,Arsenal,Stoke,H
+11-Dec,Chelsea,Arsenal,A
+11-Dec,Arsenal,"West Brom",H
+11-Dec,Norwich,Arsenal,A
+11-Dec,Wigan,Arsenal,A
+11-Dec,Arsenal,Everton,H
+11-Dec,"Aston Villa",Arsenal,A
+11-Dec,Arsenal,QPR,H
+11-Dec,Arsenal,Blackburn,H
+11-Dec,Sunderland,Arsenal,A
+11-Dec,Arsenal,Tottenham,H
+11-Dec,Liverpool,Arsenal,A
+11-Dec,Arsenal,Newcastle,H
+11-Dec,Everton,Arsenal,A
+11-Dec,Arsenal,"Aston Villa",H
+11-Dec,Arsenal,"Man City",H
+11-Dec,Wolves,Arsenal,A
+11-Dec,"West Brom",Arsenal,A
+2012-13,Liverpool,Arsenal,A
+2012-13,Arsenal,Southampton,H
+2012-13,"West Ham",Arsenal,A
+2012-13,Arsenal,QPR,H
+2012-13,Arsenal,Tottenham,H
+2012-13,Arsenal,"West Brom",H
+2012-13,Reading,Arsenal,A
+2012-13,Wigan,Arsenal,A
+2012-13,Arsenal,Newcastle,H
+2012-13,Arsenal,"West Ham",H
+2012-13,Arsenal,Stoke,H
+2012-13,Sunderland,Arsenal,A
+2012-13,Arsenal,"Aston Villa",H
+2012-13,Swansea,Arsenal,A
+2012-13,Arsenal,Reading,H
+2012-13,"West Brom",Arsenal,A
+2012-13,Arsenal,Norwich,H
+2012-13,Fulham,Arsenal,A
+2012-13,QPR,Arsenal,A
+2012-13,Arsenal,Wigan,H
+2012-13,Newcastle,Arsenal,A
+2013-14,Fulham,Arsenal,A
+2013-14,Arsenal,Tottenham,H
+2013-14,Sunderland,Arsenal,A
+2013-14,Arsenal,Stoke,H
+2013-14,Swansea,Arsenal,A
+2013-14,Arsenal,Norwich,H
+2013-14,"Crystal Palace",Arsenal,A
+2013-14,Arsenal,Liverpool,H
+2013-14,Arsenal,Southampton,H
+2013-14,Cardiff,Arsenal,A
+2013-14,Arsenal,Hull,H
+2013-14,"West Ham",Arsenal,A
+2013-14,Newcastle,Arsenal,A
+2013-14,Arsenal,Cardiff,H
+2013-14,"Aston Villa",Arsenal,A
+2013-14,Arsenal,Fulham,H
+2013-14,Arsenal,"Crystal Palace",H
+2013-14,Arsenal,Sunderland,H
+2013-14,Tottenham,Arsenal,A
+2013-14,Arsenal,"West Ham",H
+2013-14,Hull,Arsenal,A
+2013-14,Arsenal,Newcastle,H
+2013-14,Arsenal,"West Brom",H
+2013-14,Norwich,Arsenal,A
+2014-15,Arsenal,"Crystal Palace",H
+2014-15,"Aston Villa",Arsenal,A
+2014-15,Sunderland,Arsenal,A
+2014-15,Arsenal,Burnley,H
+2014-15,"West Brom",Arsenal,A
+2014-15,Arsenal,Southampton,H
+2014-15,Arsenal,Newcastle,H
+2014-15,Arsenal,QPR,H
+2014-15,"West Ham",Arsenal,A
+2014-15,Arsenal,Stoke,H
+2014-15,"Man City",Arsenal,A
+2014-15,Arsenal,"Aston Villa",H
+2014-15,Arsenal,Leicester,H
+2014-15,"Crystal Palace",Arsenal,A
+2014-15,Arsenal,Everton,H
+2014-15,QPR,Arsenal,A
+2014-15,Arsenal,"West Ham",H
+2014-15,Newcastle,Arsenal,A
+2014-15,Arsenal,Liverpool,H
+2014-15,Burnley,Arsenal,A
+2014-15,Hull,Arsenal,A
+2014-15,Arsenal,"West Brom",H
+2015-16,"Crystal Palace",Arsenal,A
+2015-16,Newcastle,Arsenal,A
+2015-16,Arsenal,Stoke,H
+2015-16,Leicester,Arsenal,A
+2015-16,Arsenal,"Man United",H
+2015-16,Watford,Arsenal,A
+2015-16,Arsenal,Everton,H
+2015-16,Swansea,Arsenal,A
+2015-16,Arsenal,Sunderland,H
+2015-16,"Aston Villa",Arsenal,A
+2015-16,Arsenal,"Man City",H
+2015-16,Arsenal,Bournemouth,H
+2015-16,Arsenal,Newcastle,H
+2015-16,Bournemouth,Arsenal,A
+2015-16,Arsenal,Leicester,H
+2015-16,Everton,Arsenal,A
+2015-16,Arsenal,Watford,H
+2015-16,Arsenal,"West Brom",H
+2015-16,Arsenal,Norwich,H
+2015-16,Arsenal,"Aston Villa",H
+2016-17,Watford,Arsenal,A
+2016-17,Arsenal,Southampton,H
+2016-17,Hull,Arsenal,A
+2016-17,Arsenal,Chelsea,H
+2016-17,Burnley,Arsenal,A
+2016-17,Arsenal,Swansea,H
+2016-17,Sunderland,Arsenal,A
+2016-17,Arsenal,Bournemouth,H
+2016-17,"West Ham",Arsenal,A
+2016-17,Arsenal,Stoke,H
+2016-17,Arsenal,"West Brom",H
+2016-17,Arsenal,"Crystal Palace",H
+2016-17,Swansea,Arsenal,A
+2016-17,Arsenal,Burnley,H
+2016-17,Arsenal,Hull,H
+2016-17,Arsenal,"West Ham",H
+2016-17,Middlesbrough,Arsenal,A
+2016-17,Arsenal,Leicester,H
+2016-17,Arsenal,"Man United",H
+2016-17,Southampton,Arsenal,A
+2016-17,Stoke,Arsenal,A
+2016-17,Arsenal,Sunderland,H
+2016-17,Arsenal,Everton,H
+2017-18,Arsenal,Leicester,H
+2017-18,Arsenal,Bournemouth,H
+2017-18,Arsenal,"West Brom",H
+2017-18,Arsenal,Brighton,H
+2017-18,Everton,Arsenal,A
+2017-18,Arsenal,Swansea,H
+2017-18,Arsenal,Tottenham,H
+2017-18,Burnley,Arsenal,A
+2017-18,Arsenal,Huddersfield,H
+2017-18,Arsenal,Newcastle,H
+2017-18,"Crystal Palace",Arsenal,A
+2017-18,Arsenal,"Crystal Palace",H
+2017-18,Arsenal,Everton,H
+2017-18,Arsenal,Watford,H
+2017-18,Arsenal,Stoke,H
+2017-18,Arsenal,Southampton,H
+2017-18,Arsenal,"West Ham",H
+2017-18,Arsenal,Burnley,H
+2017-18,Huddersfield,Arsenal,A
+2018-19,Arsenal,"West Ham",H
+2018-19,Cardiff,Arsenal,A
+2018-19,Newcastle,Arsenal,A
+2018-19,Arsenal,Everton,H
+2018-19,Arsenal,Watford,H
+2018-19,Fulham,Arsenal,A
+2018-19,Arsenal,Leicester,H
+2018-19,Bournemouth,Arsenal,A
+2018-19,Arsenal,Tottenham,H
+2018-19,Arsenal,Huddersfield,H
+2018-19,Arsenal,Burnley,H
+2018-19,Arsenal,Fulham,H
+2018-19,Arsenal,Chelsea,H
+2018-19,Arsenal,Cardiff,H
+2018-19,Huddersfield,Arsenal,A
+2018-19,Arsenal,Southampton,H
+2018-19,Arsenal,Bournemouth,H
+2018-19,Arsenal,"Man United",H
+2018-19,Arsenal,Newcastle,H
+2018-19,Watford,Arsenal,A
+2018-19,Burnley,Arsenal,A
+2019-20,Newcastle,Arsenal,A
+2019-20,Arsenal,Burnley,H
+2019-20,Arsenal,"Aston Villa",H
+2019-20,Arsenal,Bournemouth,H
+2019-20,"West Ham",Arsenal,A
+2019-20,Arsenal,"Man United",H
+2019-20,Arsenal,Newcastle,H
+2019-20,Arsenal,Everton,H
+2019-20,Arsenal,"West Ham",H
+2019-20,Southampton,Arsenal,A
+2019-20,Arsenal,Norwich,H
+2019-20,Wolves,Arsenal,A
+2019-20,Arsenal,Liverpool,H
+2019-20,Arsenal,Watford,H
+2020-21,Fulham,Arsenal,A
+2020-21,Arsenal,"West Ham",H
+2020-21,Arsenal,"Sheffield United",H
+2020-21,"Man United",Arsenal,A
+2020-21,Arsenal,Chelsea,H
+2020-21,Brighton,Arsenal,A
+2020-21,"West Brom",Arsenal,A
+2020-21,Arsenal,Newcastle,H
+2020-21,Southampton,Arsenal,A
+2020-21,Arsenal,Leeds,H
+2020-21,Leicester,Arsenal,A
+2020-21,Arsenal,Tottenham,H
+2020-21,"Sheffield United",Arsenal,A
+2020-21,Newcastle,Arsenal,A
+2020-21,Arsenal,"West Brom",H
+2020-21,Chelsea,Arsenal,A
+2020-21,"Crystal Palace",Arsenal,A
+2020-21,Arsenal,Brighton,H
+2021-22,Arsenal,Norwich,H
+2021-22,Burnley,Arsenal,A
+2021-22,Arsenal,Tottenham,H
+2021-22,Arsenal,"Aston Villa",H
+2021-22,Leicester,Arsenal,A
+2021-22,Arsenal,Watford,H
+2021-22,Arsenal,Newcastle,H
+2021-22,Arsenal,Southampton,H
+2021-22,Arsenal,"West Ham",H
+2021-22,Leeds,Arsenal,A
+2021-22,Norwich,Arsenal,A
+2021-22,Wolves,Arsenal,A
+2021-22,Arsenal,Brentford,H
+2021-22,Arsenal,Wolves,H
+2021-22,Watford,Arsenal,A
+2021-22,Arsenal,Leicester,H
+2021-22,"Aston Villa",Arsenal,A

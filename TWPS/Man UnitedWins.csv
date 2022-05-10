@@ -1,0 +1,506 @@
+season,hometeam,awayteam,FTR
+Jan-00,"Man United",Newcastle,H
+Jan-00,"Man United",Bradford,H
+Jan-00,"Man United",Sunderland,H
+Jan-00,Everton,"Man United",A
+Jan-00,Leicester,"Man United",A
+Jan-00,"Man United",Leeds,H
+Jan-00,"Man United",Southampton,H
+Jan-00,Coventry,"Man United",A
+Jan-00,"Man United",Middlesbrough,H
+Jan-00,"Man City","Man United",A
+Jan-00,Derby,"Man United",A
+Jan-00,"Man United",Tottenham,H
+Jan-00,"Man United",Ipswich,H
+Jan-00,"Aston Villa","Man United",A
+Jan-00,"Man United","West Ham",H
+Jan-00,Bradford,"Man United",A
+Jan-00,"Man United","Aston Villa",H
+Jan-00,Sunderland,"Man United",A
+Jan-00,"Man United",Everton,H
+Jan-00,"Man United",Arsenal,H
+Jan-00,"Man United",Leicester,H
+Jan-00,"Man United",Charlton,H
+Jan-00,"Man United",Coventry,H
+Jan-00,Middlesbrough,"Man United",A
+01-Feb,"Man United",Fulham,H
+01-Feb,"Man United",Everton,H
+01-Feb,"Man United",Ipswich,H
+01-Feb,Tottenham,"Man United",A
+01-Feb,Sunderland,"Man United",A
+01-Feb,"Man United",Leicester,H
+01-Feb,"Man United",Derby,H
+01-Feb,Middlesbrough,"Man United",A
+01-Feb,"Man United",Southampton,H
+01-Feb,Everton,"Man United",A
+01-Feb,Fulham,"Man United",A
+01-Feb,"Man United",Newcastle,H
+01-Feb,Southampton,"Man United",A
+01-Feb,"Man United",Blackburn,H
+01-Feb,Bolton,"Man United",A
+01-Feb,"Man United",Sunderland,H
+01-Feb,Charlton,"Man United",A
+01-Feb,"Man United","Aston Villa",H
+01-Feb,"Man United",Tottenham,H
+01-Feb,"West Ham","Man United",A
+01-Feb,Leeds,"Man United",A
+01-Feb,Leicester,"Man United",A
+01-Feb,Chelsea,"Man United",A
+01-Feb,Ipswich,"Man United",A
+02-Mar,"Man United","West Brom",H
+02-Mar,"Man United",Middlesbrough,H
+02-Mar,"Man United",Tottenham,H
+02-Mar,Charlton,"Man United",A
+02-Mar,"Man United",Everton,H
+02-Mar,"Man United",Southampton,H
+02-Mar,"Man United",Newcastle,H
+02-Mar,Liverpool,"Man United",A
+02-Mar,"Man United",Arsenal,H
+02-Mar,"Man United","West Ham",H
+02-Mar,"Man United",Birmingham,H
+02-Mar,"Man United",Sunderland,H
+02-Mar,"West Brom","Man United",A
+02-Mar,"Man United",Chelsea,H
+02-Mar,Southampton,"Man United",A
+02-Mar,Birmingham,"Man United",A
+02-Mar,"Man United",Leeds,H
+02-Mar,"Aston Villa","Man United",A
+02-Mar,"Man United",Fulham,H
+02-Mar,"Man United",Liverpool,H
+02-Mar,Newcastle,"Man United",A
+02-Mar,"Man United",Blackburn,H
+02-Mar,Tottenham,"Man United",A
+02-Mar,"Man United",Charlton,H
+02-Mar,Everton,"Man United",A
+03-Apr,"Man United",Bolton,H
+03-Apr,Newcastle,"Man United",A
+03-Apr,"Man United",Wolves,H
+03-Apr,Charlton,"Man United",A
+03-Apr,Leicester,"Man United",A
+03-Apr,"Man United",Birmingham,H
+03-Apr,Leeds,"Man United",A
+03-Apr,"Man United",Portsmouth,H
+03-Apr,Liverpool,"Man United",A
+03-Apr,"Man United",Blackburn,H
+03-Apr,"Man United","Aston Villa",H
+03-Apr,"Man United","Man City",H
+03-Apr,Tottenham,"Man United",A
+03-Apr,"Man United",Everton,H
+03-Apr,Middlesbrough,"Man United",A
+03-Apr,Bolton,"Man United",A
+03-Apr,"Man United",Southampton,H
+03-Apr,Everton,"Man United",A
+03-Apr,"Man United",Tottenham,H
+03-Apr,Birmingham,"Man United",A
+03-Apr,"Man United",Leicester,H
+03-Apr,"Man United",Charlton,H
+03-Apr,"Aston Villa","Man United",A
+04-May,"Man United",Norwich,H
+04-May,"Man United",Liverpool,H
+04-May,Tottenham,"Man United",A
+04-May,"Man United",Arsenal,H
+04-May,Newcastle,"Man United",A
+04-May,"Man United",Charlton,H
+04-May,"West Brom","Man United",A
+04-May,"Man United",Southampton,H
+04-May,"Man United","Crystal Palace",H
+04-May,"Man United",Bolton,H
+04-May,"Aston Villa","Man United",A
+04-May,Middlesbrough,"Man United",A
+04-May,Liverpool,"Man United",A
+04-May,"Man United","Aston Villa",H
+04-May,Arsenal,"Man United",A
+04-May,"Man United",Birmingham,H
+04-May,"Man City","Man United",A
+04-May,"Man United",Portsmouth,H
+04-May,"Man United",Fulham,H
+04-May,"Man United",Newcastle,H
+04-May,Charlton,"Man United",A
+04-May,Southampton,"Man United",A
+05-Jun,Everton,"Man United",A
+05-Jun,"Man United","Aston Villa",H
+05-Jun,Newcastle,"Man United",A
+05-Jun,Fulham,"Man United",A
+05-Jun,Sunderland,"Man United",A
+05-Jun,"Man United",Chelsea,H
+05-Jun,Charlton,"Man United",A
+05-Jun,"West Ham","Man United",A
+05-Jun,"Man United",Portsmouth,H
+05-Jun,"Man United",Wigan,H
+05-Jun,"Aston Villa","Man United",A
+05-Jun,"Man United","West Brom",H
+05-Jun,"Man United",Bolton,H
+05-Jun,"Man United",Liverpool,H
+05-Jun,"Man United",Fulham,H
+05-Jun,Portsmouth,"Man United",A
+05-Jun,Wigan,"Man United",A
+05-Jun,"Man United",Newcastle,H
+05-Jun,"West Brom","Man United",A
+05-Jun,"Man United",Birmingham,H
+05-Jun,"Man United","West Ham",H
+05-Jun,Bolton,"Man United",A
+05-Jun,"Man United",Arsenal,H
+05-Jun,Tottenham,"Man United",A
+05-Jun,"Man United",Charlton,H
+06-Jul,"Man United",Fulham,H
+06-Jul,Charlton,"Man United",A
+06-Jul,Watford,"Man United",A
+06-Jul,"Man United",Tottenham,H
+06-Jul,"Man United",Newcastle,H
+06-Jul,Wigan,"Man United",A
+06-Jul,"Man United",Liverpool,H
+06-Jul,Bolton,"Man United",A
+06-Jul,"Man United",Portsmouth,H
+06-Jul,Blackburn,"Man United",A
+06-Jul,"Sheffield United","Man United",A
+06-Jul,"Man United",Everton,H
+06-Jul,Middlesbrough,"Man United",A
+06-Jul,"Man United","Man City",H
+06-Jul,"Aston Villa","Man United",A
+06-Jul,"Man United",Wigan,H
+06-Jul,"Man United",Reading,H
+06-Jul,"Man United","Aston Villa",H
+06-Jul,"Man United",Watford,H
+06-Jul,Tottenham,"Man United",A
+06-Jul,"Man United",Charlton,H
+06-Jul,Fulham,"Man United",A
+06-Jul,Liverpool,"Man United",A
+06-Jul,"Man United",Bolton,H
+06-Jul,"Man United",Blackburn,H
+06-Jul,"Man United","Sheffield United",H
+06-Jul,Everton,"Man United",A
+06-Jul,"Man City","Man United",A
+07-Aug,"Man United",Tottenham,H
+07-Aug,"Man United",Sunderland,H
+07-Aug,Everton,"Man United",A
+07-Aug,"Man United",Chelsea,H
+07-Aug,Birmingham,"Man United",A
+07-Aug,"Man United",Wigan,H
+07-Aug,"Aston Villa","Man United",A
+07-Aug,"Man United",Middlesbrough,H
+07-Aug,"Man United",Blackburn,H
+07-Aug,"Man United",Fulham,H
+07-Aug,"Man United",Derby,H
+07-Aug,Liverpool,"Man United",A
+07-Aug,"Man United",Everton,H
+07-Aug,Sunderland,"Man United",A
+07-Aug,"Man United",Birmingham,H
+07-Aug,"Man United",Newcastle,H
+07-Aug,Reading,"Man United",A
+07-Aug,"Man United",Portsmouth,H
+07-Aug,Newcastle,"Man United",A
+07-Aug,Fulham,"Man United",A
+07-Aug,Derby,"Man United",A
+07-Aug,"Man United",Bolton,H
+07-Aug,"Man United",Liverpool,H
+07-Aug,"Man United","Aston Villa",H
+07-Aug,"Man United",Arsenal,H
+07-Aug,"Man United","West Ham",H
+07-Aug,Wigan,"Man United",A
+08-Sep,Portsmouth,"Man United",A
+08-Sep,"Man United",Bolton,H
+08-Sep,Blackburn,"Man United",A
+08-Sep,"Man United","West Brom",H
+08-Sep,"Man United","West Ham",H
+08-Sep,"Man United",Hull,H
+08-Sep,"Man United",Stoke,H
+08-Sep,"Man City","Man United",A
+08-Sep,"Man United",Sunderland,H
+08-Sep,Stoke,"Man United",A
+08-Sep,"Man United",Middlesbrough,H
+08-Sep,"Man United",Chelsea,H
+08-Sep,"Man United",Wigan,H
+08-Sep,Bolton,"Man United",A
+08-Sep,"West Brom","Man United",A
+08-Sep,"Man United",Everton,H
+08-Sep,"West Ham","Man United",A
+08-Sep,"Man United",Fulham,H
+08-Sep,"Man United",Blackburn,H
+08-Sep,Newcastle,"Man United",A
+08-Sep,"Man United","Aston Villa",H
+08-Sep,Sunderland,"Man United",A
+08-Sep,"Man United",Portsmouth,H
+08-Sep,"Man United",Tottenham,H
+08-Sep,Middlesbrough,"Man United",A
+08-Sep,"Man United","Man City",H
+08-Sep,Wigan,"Man United",A
+08-Sep,Hull,"Man United",A
+09-Oct,"Man United",Birmingham,H
+09-Oct,Wigan,"Man United",A
+09-Oct,"Man United",Arsenal,H
+09-Oct,Tottenham,"Man United",A
+09-Oct,"Man United","Man City",H
+09-Oct,Stoke,"Man United",A
+09-Oct,"Man United",Bolton,H
+09-Oct,"Man United",Blackburn,H
+09-Oct,"Man United",Everton,H
+09-Oct,Portsmouth,"Man United",A
+09-Oct,"West Ham","Man United",A
+09-Oct,"Man United",Wolves,H
+09-Oct,Hull,"Man United",A
+09-Oct,"Man United",Wigan,H
+09-Oct,"Man United",Burnley,H
+09-Oct,"Man United",Hull,H
+09-Oct,Arsenal,"Man United",A
+09-Oct,"Man United",Portsmouth,H
+09-Oct,"Man United","West Ham",H
+09-Oct,Wolves,"Man United",A
+09-Oct,"Man United",Fulham,H
+09-Oct,"Man United",Liverpool,H
+09-Oct,Bolton,"Man United",A
+09-Oct,"Man City","Man United",A
+09-Oct,"Man United",Tottenham,H
+09-Oct,Sunderland,"Man United",A
+09-Oct,"Man United",Stoke,H
+10-Nov,"Man United",Newcastle,H
+10-Nov,"Man United","West Ham",H
+10-Nov,"Man United",Liverpool,H
+10-Nov,Stoke,"Man United",A
+10-Nov,"Man United",Tottenham,H
+10-Nov,"Man United",Wolves,H
+10-Nov,"Man United",Wigan,H
+10-Nov,"Man United",Blackburn,H
+10-Nov,"Man United",Arsenal,H
+10-Nov,"Man United",Sunderland,H
+10-Nov,"West Brom","Man United",A
+10-Nov,"Man United",Stoke,H
+10-Nov,"Man United",Birmingham,H
+10-Nov,Blackpool,"Man United",A
+10-Nov,"Man United","Aston Villa",H
+10-Nov,"Man United","Man City",H
+10-Nov,Wigan,"Man United",A
+10-Nov,"Man United",Bolton,H
+10-Nov,"West Ham","Man United",A
+10-Nov,"Man United",Fulham,H
+10-Nov,"Man United",Everton,H
+10-Nov,"Man United",Chelsea,H
+10-Nov,"Man United",Blackpool,H
+11-Dec,"West Brom","Man United",A
+11-Dec,"Man United",Tottenham,H
+11-Dec,"Man United",Arsenal,H
+11-Dec,Bolton,"Man United",A
+11-Dec,"Man United",Chelsea,H
+11-Dec,"Man United",Norwich,H
+11-Dec,Everton,"Man United",A
+11-Dec,"Man United",Sunderland,H
+11-Dec,Swansea,"Man United",A
+11-Dec,"Aston Villa","Man United",A
+11-Dec,"Man United",Wolves,H
+11-Dec,QPR,"Man United",A
+11-Dec,Fulham,"Man United",A
+11-Dec,"Man United",Wigan,H
+11-Dec,"Man United",Bolton,H
+11-Dec,Arsenal,"Man United",A
+11-Dec,"Man United",Stoke,H
+11-Dec,"Man United",Liverpool,H
+11-Dec,Norwich,"Man United",A
+11-Dec,Tottenham,"Man United",A
+11-Dec,"Man United","West Brom",H
+11-Dec,Wolves,"Man United",A
+11-Dec,"Man United",Fulham,H
+11-Dec,Blackburn,"Man United",A
+11-Dec,"Man United",QPR,H
+11-Dec,"Man United","Aston Villa",H
+11-Dec,"Man United",Swansea,H
+11-Dec,Sunderland,"Man United",A
+2012-13,"Man United",Fulham,H
+2012-13,Southampton,"Man United",A
+2012-13,"Man United",Wigan,H
+2012-13,Liverpool,"Man United",A
+2012-13,Newcastle,"Man United",A
+2012-13,"Man United",Stoke,H
+2012-13,Chelsea,"Man United",A
+2012-13,"Man United",Arsenal,H
+2012-13,"Aston Villa","Man United",A
+2012-13,"Man United",QPR,H
+2012-13,"Man United","West Ham",H
+2012-13,Reading,"Man United",A
+2012-13,"Man City","Man United",A
+2012-13,"Man United",Sunderland,H
+2012-13,"Man United",Newcastle,H
+2012-13,"Man United","West Brom",H
+2012-13,Wigan,"Man United",A
+2012-13,"Man United",Liverpool,H
+2012-13,"Man United",Southampton,H
+2012-13,Fulham,"Man United",A
+2012-13,"Man United",Everton,H
+2012-13,QPR,"Man United",A
+2012-13,"Man United",Norwich,H
+2012-13,"Man United",Reading,H
+2012-13,Sunderland,"Man United",A
+2012-13,Stoke,"Man United",A
+2012-13,"Man United","Aston Villa",H
+2012-13,"Man United",Swansea,H
+2013-14,Swansea,"Man United",A
+2013-14,"Man United","Crystal Palace",H
+2013-14,Sunderland,"Man United",A
+2013-14,"Man United",Stoke,H
+2013-14,Fulham,"Man United",A
+2013-14,"Man United",Arsenal,H
+2013-14,"Aston Villa","Man United",A
+2013-14,"Man United","West Ham",H
+2013-14,Hull,"Man United",A
+2013-14,Norwich,"Man United",A
+2013-14,"Man United",Swansea,H
+2013-14,"Man United",Cardiff,H
+2013-14,"Crystal Palace","Man United",A
+2013-14,"West Brom","Man United",A
+2013-14,"West Ham","Man United",A
+2013-14,"Man United","Aston Villa",H
+2013-14,Newcastle,"Man United",A
+2013-14,"Man United",Norwich,H
+2013-14,"Man United",Hull,H
+2014-15,"Man United",QPR,H
+2014-15,"Man United","West Ham",H
+2014-15,"Man United",Everton,H
+2014-15,"Man United","Crystal Palace",H
+2014-15,Arsenal,"Man United",A
+2014-15,"Man United",Hull,H
+2014-15,"Man United",Stoke,H
+2014-15,Southampton,"Man United",A
+2014-15,"Man United",Liverpool,H
+2014-15,"Man United",Newcastle,H
+2014-15,QPR,"Man United",A
+2014-15,"Man United",Leicester,H
+2014-15,"Man United",Burnley,H
+2014-15,"Man United",Sunderland,H
+2014-15,Newcastle,"Man United",A
+2014-15,"Man United",Tottenham,H
+2014-15,Liverpool,"Man United",A
+2014-15,"Man United","Aston Villa",H
+2014-15,"Man United","Man City",H
+2014-15,"Crystal Palace","Man United",A
+2015-16,"Man United",Tottenham,H
+2015-16,"Aston Villa","Man United",A
+2015-16,"Man United",Liverpool,H
+2015-16,Southampton,"Man United",A
+2015-16,"Man United",Sunderland,H
+2015-16,Everton,"Man United",A
+2015-16,"Man United","West Brom",H
+2015-16,Watford,"Man United",A
+2015-16,"Man United",Swansea,H
+2015-16,Liverpool,"Man United",A
+2015-16,"Man United",Stoke,H
+2015-16,"Man United",Arsenal,H
+2015-16,"Man United",Watford,H
+2015-16,"Man City","Man United",A
+2015-16,"Man United",Everton,H
+2015-16,"Man United","Aston Villa",H
+2015-16,"Man United","Crystal Palace",H
+2015-16,Norwich,"Man United",A
+2015-16,"Man United",Bournemouth,H
+2016-17,Bournemouth,"Man United",A
+2016-17,"Man United",Southampton,H
+2016-17,Hull,"Man United",A
+2016-17,"Man United",Leicester,H
+2016-17,Swansea,"Man United",A
+2016-17,"Man United",Tottenham,H
+2016-17,"Crystal Palace","Man United",A
+2016-17,"West Brom","Man United",A
+2016-17,"Man United",Sunderland,H
+2016-17,"Man United",Middlesbrough,H
+2016-17,"West Ham","Man United",A
+2016-17,Leicester,"Man United",A
+2016-17,"Man United",Watford,H
+2016-17,Middlesbrough,"Man United",A
+2016-17,Sunderland,"Man United",A
+2016-17,"Man United",Chelsea,H
+2016-17,Burnley,"Man United",A
+2016-17,"Man United","Crystal Palace",H
+2017-18,"Man United","West Ham",H
+2017-18,Swansea,"Man United",A
+2017-18,"Man United",Leicester,H
+2017-18,"Man United",Everton,H
+2017-18,Southampton,"Man United",A
+2017-18,"Man United","Crystal Palace",H
+2017-18,"Man United",Tottenham,H
+2017-18,"Man United",Newcastle,H
+2017-18,"Man United",Brighton,H
+2017-18,Watford,"Man United",A
+2017-18,Arsenal,"Man United",A
+2017-18,"Man United",Bournemouth,H
+2017-18,"West Brom","Man United",A
+2017-18,Everton,"Man United",A
+2017-18,"Man United",Stoke,H
+2017-18,Burnley,"Man United",A
+2017-18,"Man United",Huddersfield,H
+2017-18,"Man United",Chelsea,H
+2017-18,"Crystal Palace","Man United",A
+2017-18,"Man United",Liverpool,H
+2017-18,"Man United",Swansea,H
+2017-18,"Man City","Man United",A
+2017-18,Bournemouth,"Man United",A
+2017-18,"Man United",Arsenal,H
+2017-18,"Man United",Watford,H
+2018-19,"Man United",Leicester,H
+2018-19,Burnley,"Man United",A
+2018-19,Watford,"Man United",A
+2018-19,"Man United",Newcastle,H
+2018-19,"Man United",Everton,H
+2018-19,Bournemouth,"Man United",A
+2018-19,"Man United",Fulham,H
+2018-19,Cardiff,"Man United",A
+2018-19,"Man United",Huddersfield,H
+2018-19,"Man United",Bournemouth,H
+2018-19,Newcastle,"Man United",A
+2018-19,Tottenham,"Man United",A
+2018-19,"Man United",Brighton,H
+2018-19,Leicester,"Man United",A
+2018-19,Fulham,"Man United",A
+2018-19,"Crystal Palace","Man United",A
+2018-19,"Man United",Southampton,H
+2018-19,"Man United",Watford,H
+2018-19,"Man United","West Ham",H
+2019-20,"Man United",Chelsea,H
+2019-20,"Man United",Leicester,H
+2019-20,Norwich,"Man United",A
+2019-20,"Man United",Brighton,H
+2019-20,"Man United",Tottenham,H
+2019-20,"Man City","Man United",A
+2019-20,"Man United",Newcastle,H
+2019-20,Burnley,"Man United",A
+2019-20,"Man United",Norwich,H
+2019-20,Chelsea,"Man United",A
+2019-20,"Man United",Watford,H
+2019-20,"Man United","Man City",H
+2019-20,"Man United","Sheffield United",H
+2019-20,Brighton,"Man United",A
+2019-20,"Man United",Bournemouth,H
+2019-20,"Aston Villa","Man United",A
+2019-20,"Crystal Palace","Man United",A
+2019-20,Leicester,"Man United",A
+2020-21,Brighton,"Man United",A
+2020-21,Newcastle,"Man United",A
+2020-21,Everton,"Man United",A
+2020-21,"Man United","West Brom",H
+2020-21,Southampton,"Man United",A
+2020-21,"West Ham","Man United",A
+2020-21,"Sheffield United","Man United",A
+2020-21,"Man United",Leeds,H
+2020-21,"Man United",Wolves,H
+2020-21,"Man United","Aston Villa",H
+2020-21,Burnley,"Man United",A
+2020-21,Fulham,"Man United",A
+2020-21,"Man United",Southampton,H
+2020-21,"Man United",Newcastle,H
+2020-21,"Man City","Man United",A
+2020-21,"Man United","West Ham",H
+2020-21,"Man United",Brighton,H
+2020-21,Tottenham,"Man United",A
+2020-21,"Man United",Burnley,H
+2020-21,"Aston Villa","Man United",A
+2020-21,Wolves,"Man United",A
+2021-22,"Man United",Leeds,H
+2021-22,Wolves,"Man United",A
+2021-22,"Man United",Newcastle,H
+2021-22,"West Ham","Man United",A
+2021-22,Tottenham,"Man United",A
+2021-22,"Man United",Arsenal,H
+2021-22,"Man United","Crystal Palace",H
+2021-22,Norwich,"Man United",A
+2021-22,"Man United",Burnley,H
+2021-22,Brentford,"Man United",A
+2021-22,"Man United","West Ham",H
+2021-22,"Man United",Brighton,H
+2021-22,Leeds,"Man United",A
+2021-22,"Man United",Tottenham,H
